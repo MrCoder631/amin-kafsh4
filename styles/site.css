@@ -20,3 +20,46 @@ body{
     color: darkgray;
 
 }
+
+.c3{
+    position: absolute;
+    left: 350px;
+    top: 5px;
+    font-style: bold    ;
+
+}
+.c4{
+    position: absolute;
+    display: inline-block;
+    top: 100px;
+
+}    
+.c5{
+    position: absolute;
+    
+    top: -30px;
+    left: 500px; ;
+}
+#d1{
+    border-radius: 10%;
+}
+.h3{
+    position: relative;
+    text-align: center;
+    top: 500px;
+    color: darkgreen;
+    border: 1px solid green;
+    background-color: lightgray;
+    border-radius: 20px;
+    padding: 1px 1px;
+}
+.c6{
+    position: relative;
+}
+.c7{
+    position: absolute;
+    top: 500px;
+    left: 240px;
+
+
+}
